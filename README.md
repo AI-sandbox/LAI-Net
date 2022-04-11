@@ -24,7 +24,7 @@ pip install -r requirements.txt
 LAI-Net can be used in two ways:
 
 - Training a model from scratch using provided training data or 
-- Loading a pre-trained network models
+- Loading pre-trained network models
 
 
 For training and inference use:
@@ -77,11 +77,11 @@ python3 LAINET.py -i 20 -q test.vcf -r founders.vcf -m founders.map -o output/te
 
 ## License
 
-**NOTICE**: This software is available for use free of charge for academic research use only. Commercial users, for profit companies or consultants, and non-profit institutions not qualifying as "academic research" must contact the [Stanford Office of Technology Licensing](https://otl.stanford.edu/) for a separate license. This applies to this repository directly and any other repository that includes source, executables, or git commands that pull/clone this repository as part of its function. Such repositories, whether ours or others, must include this notice. Academic users may fork this repository and modify and improve to suit their research needs, but also inherit these terms and must include a licensing notice to that effect.
+**NOTICE**: This software is available free of charge for academic research use only. Commercial users, for profit companies or consultants, and non-profit institutions not qualifying as "academic research" must contact the [Stanford Office of Technology Licensing](https://otl.stanford.edu/) for a separate license. This applies to this repository directly and any other repository that includes source, executables, or git commands that pull/clone this repository as part of its function. Such repositories, whether ours or others, must include this notice. Academic users may fork this repository and modify and improve to suit their research needs, but also inherit these terms and must include a licensing notice to that effect.
 
 ## Cite
 
-#### When using this software, please cite: 
+#### When using this software, cite: 
 Montserrat, Daniel Mas, Carlos Bustamante, and Alexander Ioannidis. "LAI-Net: Local-ancestry inference with neural networks." ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020.
 
 https://ieeexplore.ieee.org/document/9053662
